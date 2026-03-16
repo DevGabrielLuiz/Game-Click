@@ -21,10 +21,10 @@ Frontend: HTML5, CSS3 (Bootstrap) e JavaScript.
 Instale as dependências:
 
 Bash
-pip install flask flask-socketio
+pip install flask flask-socketio<br>
 Inicie o servidor:
 
-Bash
-python app.py
-Acesse no navegador:
+Bash<br>
+  python app.py
+  <br>Acesse no navegador:
 Abra http://localhost:5000
