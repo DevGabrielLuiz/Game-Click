@@ -31,9 +31,4 @@ Acesse no navegador:
 Abra http://localhost:5000
 
 Para ver no git basta acessar: https://github.com/DevGabrielLuiz/Game-Click
-=======
-Bash<br>
-  python app.py
-  <br>Acesse no navegador:
-Abra http://localhost:5000
 
